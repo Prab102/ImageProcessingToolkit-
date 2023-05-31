@@ -36,3 +36,8 @@ Ex, input.pgm output.pgm 1 0 0 511 511 func
 *** Run the program: 
 paramteres.txt located in project/bin
 go to bin folder and run ./iptool parameters.txt
+
+*** Extra Resources Provided ***
+Guide PDF
+Example Images
+
